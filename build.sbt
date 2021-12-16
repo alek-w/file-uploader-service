@@ -13,5 +13,5 @@ resolvers += "scalaz-bintray" at "http://dl.bintray.com/scalaz/releases"
 
 
 libraryDependencies ++= Seq(
-  "org.apache.kafka" % "kafka_2.11" % "0.10.0.0"
+  "org.apache.kafka" % "kafka_2.11" % "2.4.1"
 )
